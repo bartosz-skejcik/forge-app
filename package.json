@@ -1,0 +1,12 @@
+{
+  "name": "gen-web",
+  "version": "1.0.0",
+  "bin": "./bin/index.js",
+  "description": "A simple npx cli tool for creating custom next/react/angular projects with additional dependencies",
+  "main": "index.js",
+  "author": "Bartek Paczesny",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
