@@ -1,6 +1,6 @@
 var inquirer = require("inquirer");
 var fs = require("fs");
-const { Static } = require("../lib/utils");
+const { Static, Next } = require("../lib/utils");
 
 let projectDir = "";
 
@@ -48,7 +48,15 @@ inquirer.prompt([
                     });
                     break;
                 case "Next":
-                    Next();
+                    inquirer.prompt([
+                        {
+                            type: "confirm",
+                            message: "Would you like to include TailwindCSS?",
+                            name: "tailwind"
+                        }
+                    ]).then(function(res) {
+                        Next(fs, projectDir, res.include, res.tailwind);
+                    });
                     break;
                 case "React":
                     React();
