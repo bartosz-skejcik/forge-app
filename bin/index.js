@@ -32,7 +32,7 @@ inquirer.prompt([
                 if (err) {
                     console.log(err);
                 } else {
-                    projectDir = `${process.cwd()}\\${res.projectName}`;
+                    projectDir = `${process.cwd()}/${res.projectName}`;
                 }
     
                 switch(res.framework) {
