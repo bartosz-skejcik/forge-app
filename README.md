@@ -10,7 +10,7 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
   <a href="https://twitter.com/bartosz\_skejcik" target="_blank">
-    <img alt="Twitter: bartosz\_skejcik" src="https://img.shields.io/twitter/follow/bartosz\_skejcik.svg?style=social" />
+    <img alt="Twitter: bartosz\_skejcik" src="https://img.shields.io/twitter/follow/bartosz_skejcik.svg?style=social" />
   </a>
 </p>
 
