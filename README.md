@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to forge-app 👋</h1>
-<p>
+<p align="center">
   <a href="https://www.npmjs.com/package/forge-app" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/forge-app.svg">
   </a>
@@ -9,8 +9,11 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <a href="https://twitter.com/bartosz\_skejcik" target="_blank">
-    <img alt="Twitter: bartosz\_skejcik" src="https://img.shields.io/twitter/follow/bartosz_skejcik.svg?style=social" />
+  <a href="#" target="_blank">
+    <img alt="NPM Downloads" src="https://img.shields.io/npm/dw/forge-app.svg" />
+  </a>
+  <a href="https://twitter.com/bartosz_skejcik" target="_blank">
+    <img alt="Twitter: bartosz_skejcik" src="https://img.shields.io/twitter/follow/bartosz_skejcik.svg?style=social" />
   </a>
 </p>
 
