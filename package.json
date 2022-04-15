@@ -1,6 +1,6 @@
 {
   "name": "forge-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin": "./bin/index.js",
   "description": "A simple npx cli tool for creating custom next/react/static projects with additional dependencies",
   "keywords": [
