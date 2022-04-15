@@ -1,6 +1,6 @@
 var inquirer = require("inquirer");
 var fs = require("fs");
-const { Static, Next } = require("../lib/utils");
+const { Static, Next, React } = require("../lib/utils");
 
 let projectDir = "";
 let projectName = "";
@@ -82,7 +82,7 @@ inquirer.prompt([
                                 name: "typescript"
                             }
                         ]).then(function(res) {
-                            React(fs, projectDir, res.tailwind, res.typescript);
+                            React(projectDir, res.tailwind, res.typescript, projectName);
                         });
                         break;
                 }

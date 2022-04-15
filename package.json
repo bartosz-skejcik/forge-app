@@ -1,16 +1,28 @@
 {
-  "name": "gen-web",
-  "version": "1.0.0",
+  "name": "forge-app",
+  "version": "1.0.2",
   "bin": "./bin/index.js",
-  "description": "A simple npx cli tool for creating custom next/react/angular projects with additional dependencies",
+  "description": "A simple npx cli tool for creating custom next/react/static projects with additional dependencies",
+  "keywords": [
+    "next",
+    "react",
+    "static",
+    "cli",
+    "npm",
+    "npx",
+    "forge",
+    "forge-app",
+    "forge-app-cli",
+    "forge-app-cli-tool",
+    "website-generator",
+    "website-generator-cli",
+    "website-generator-cli-tool"
+  ],
   "main": "index.js",
   "author": "Bartek Paczesny",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
-    "inquirer": "^8.2.2",
-    "next": "^12.1.5",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "inquirer": "^8.2.2"
   }
 }
