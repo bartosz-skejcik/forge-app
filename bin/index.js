@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 var inquirer = require("inquirer");
 var fs = require("fs");
 const { Static, Next, React } = require("../lib/utils");

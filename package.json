@@ -1,7 +1,9 @@
 {
   "name": "forge-app",
   "version": "1.0.4",
-  "bin": "./bin/index.js",
+  "bin": {
+    "forge-app": "bin/index.js"
+  },
   "description": "A simple npx cli tool for creating custom next/react/static projects with additional dependencies",
   "keywords": [
     "next",
@@ -18,9 +20,7 @@
     "website-generator-cli",
     "website-generator-cli-tool"
   ],
-  "main": "index.js",
   "author": "Bartek Paczesny",
-  "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^8.2.2"
