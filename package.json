@@ -1,28 +1,28 @@
 {
-  "name": "forge-app",
-  "version": "1.0.5",
-  "bin": {
-    "forge-app": "bin/index.js"
-  },
-  "description": "A simple npx cli tool for creating custom next/react/static projects with additional dependencies",
-  "keywords": [
-    "next",
-    "react",
-    "static",
-    "cli",
-    "npm",
-    "npx",
-    "forge",
-    "forge-app",
-    "forge-app-cli",
-    "forge-app-cli-tool",
-    "website-generator",
-    "website-generator-cli",
-    "website-generator-cli-tool"
-  ],
-  "author": "Bartek Paczesny",
-  "dependencies": {
-    "colors": "^1.4.0",
-    "inquirer": "^8.2.2"
-  }
+    "name": "forge-app",
+    "version": "1.1.0",
+    "bin": {
+        "forge-app": "bin/index.js"
+    },
+    "description": "A simple npx cli tool for creating custom next/react/static projects with additional dependencies",
+    "keywords": [
+        "next",
+        "react",
+        "static",
+        "cli",
+        "npm",
+        "npx",
+        "forge",
+        "forge-app",
+        "forge-app-cli",
+        "forge-app-cli-tool",
+        "website-generator",
+        "website-generator-cli",
+        "website-generator-cli-tool"
+    ],
+    "author": "Bartek Paczesny",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "inquirer": "^8.2.2"
+    }
 }

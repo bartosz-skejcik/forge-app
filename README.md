@@ -37,14 +37,19 @@ forge-app
 
 👤 **Bartek Paczesny**
 
-* Website: https://dev.paczesny.pl
-* Twitter: [@bartosz_skejcik](https://twitter.com/bartosz_skejcik)
-* Github: [@bartosz-skejcik](https://github.com/bartosz-skejcik)
-* LinkedIn: [@bartosz-skejcik](https://linkedin.com/in/bartosz-skejcik)
+-   Website: https://dev.paczesny.pl
+-   Twitter: [@bartosz_skejcik](https://twitter.com/bartosz_skejcik)
+-   Github: [@bartosz-skejcik](https://github.com/bartosz-skejcik)
+-   LinkedIn: [@bartosz-skejcik](https://linkedin.com/in/bartosz-skejcik)
+
+## Changelog
+
+-   [[`cf66c58`](https://github.com/nodejs/io.js/commit/cf66c58)] -
+    **master**: Added ESLint, Prettier and Typescript support for Next.js Framework
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/bartosz-skejcik/forge-app/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/bartosz-skejcik/forge-app/issues).
 
 ## Show your support
 
